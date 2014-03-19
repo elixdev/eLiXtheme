@@ -1,5 +1,11 @@
 <?php if(!defined('IN_GS')){ die('you cannot load this page directly.'); }
-
+/****************************************************
+*
+* @File:         functions.php
+* @Package:      GetSimple
+* @Action:       eLiXtheme theme for GetSimple CMS
+*
+*****************************************************/
 
 /**
  * Vytvoření menu v navigaci

@@ -1,4 +1,12 @@
-<?php if(!defined('IN_GS')){ die('you cannot load this page directly.'); } ?>
+<?php if(!defined('IN_GS')){ die('you cannot load this page directly.'); }
+/****************************************************
+*
+* @File:         header.inc.php
+* @Package:      GetSimple
+* @Action:       eLiXtheme theme for GetSimple CMS
+*
+*****************************************************/
+?>
 <!DOCTYPE html>
 <html>
   <head>

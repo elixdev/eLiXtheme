@@ -1,4 +1,12 @@
-<?php if(!defined('IN_GS')){ die('you cannot load this page directly.'); } ?>
+<?php if(!defined('IN_GS')){ die('you cannot load this page directly.'); }
+/****************************************************
+*
+* @File:         footer.inc.php
+* @Package:      GetSimple
+* @Action:       eLiXtheme theme for GetSimple CMS
+*
+*****************************************************/
+?>
 	<hr>
 	<footer>
 		<p class="footer-text">Copyright &copy; <?= date('Y');?> <?php get_site_name(); ?></p>
