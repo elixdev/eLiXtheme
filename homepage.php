@@ -9,7 +9,7 @@
 
 require dirname(__FILE__).'/header.inc.php';
 ?>
-<div class="row">
+<div class="row content">
 	<div class="col-md-12">
 		<?php get_page_content(); ?>
 	</div>
