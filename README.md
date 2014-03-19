@@ -1,4 +1,4 @@
 eLiXtheme
 =========
 
-Šablona vzhledu pro web elix.info
+Moderní a responzivní šablona vzhledu pro CMS GetSimple.
