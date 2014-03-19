@@ -1,0 +1,18 @@
+::selection {background: #0000FF;color: #fff;text-shadow: none;}
+::-moz-selection {background: #0000FF;color: #fff;text-shadow: none;}
+::-webkit-input-placeholder {color: #939393;}
+:-moz-placeholder {color: #939393;}
+::-moz-placeholder {color: #939393;opacity: 1;}
+html, body {min-height: 100%;background: #E5E5E5;font-family: 'Open sans', Arial, Verdana, Genevra, sans;padding-top: 30px;}
+a{-webkit-transition: all 0.3s ease-in-out;-moz-transition: all 0.3s ease-in-out;-o-transition: all 0.3s ease-in-out;-ms-transition: all 0.3s ease-in-out;transition: all 0.3s ease-in-out;}
+.modal-header{background: #1E90FF;color: white;font-weight: bold;}
+.modal-header h4.modal-title{font-weight: bold;font-family: 'Open sans', Arial, Verdana, Genevra, sans;color: white;}
+.modal-footer{background: #E6E6FA;}
+.modal-content{border-radius: none;}
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {color: #555;background-color: #E5E5E5;}
+a.edit-page{padding: 4px 10px;background:red;color:white;text-decoration:none;text-shadow:none;border:none;}
+a.edit-page:hover{color:red;background:white;text-decoration:none;border:none;}
+a.navbar-brand{font-weight:bold;margin-right:60px;}
+h1,h2{border-bottom:1px solid white;text-shadow:1px 1px 1px white;}
+blockquote{background:#EEECEC;font-style:italic;border-left:5px solid #DEDEDE;color:#7F7F7F;text-shadow:1px 1px 0px white !important;}
+footer{font-size:90%;text-shadow:1px 1px 0px white;margin-top:60px;margin-bottom:20px;}
