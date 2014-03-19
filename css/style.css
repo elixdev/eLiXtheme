@@ -16,3 +16,18 @@ a.navbar-brand{font-weight:bold;margin-right:60px;}
 h1,h2{border-bottom:1px solid white;text-shadow:1px 1px 1px white;}
 blockquote{background:#EEECEC;font-style:italic;border-left:5px solid #DEDEDE;color:#7F7F7F;text-shadow:1px 1px 0px white !important;}
 footer{font-size:90%;text-shadow:1px 1px 0px white;margin-top:60px;margin-bottom:20px;}
+
+
+/** Barvičky **/
+.light-blue{color:#1E90FF}
+.blue{color:#0000FF}
+.light-red{color:#FF8484}
+.red{color:#FF0000}
+.light-green{color:#90EE90}
+.green{color:#008000}
+.light-orange{color:#FDD386}
+.orange{color:#FFA500}
+.black{color:black}
+.white{color:white}
+.violet{color:#800080}
+.silver{color:#BFBFBF}
